@@ -1,4 +1,4 @@
-# iCloudEMS Smart Campus – Live Computer Vision Pipeline
+#Smart Campus – Live Computer Vision Pipeline
 
 A real-time classroom monitoring pipeline using **YOLOv8**, **ByteTrack**, and **OpenCV**.
 
